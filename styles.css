@@ -48,15 +48,18 @@ header nav ul li:hover {
 
 /* Main Content */
 main {
-    margin: 5rem auto;
+    width: 100%;
+    /*margin: 5rem auto;*/
     display: flex;
     flex-direction: column;
     gap: 5rem;
     align-items: center;
-    padding: 0 2rem;
 }
 
 #hero {
+    padding: 2rem;
+    background-color: green;
+    width: 100%;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -100,6 +103,10 @@ main {
 
 /* Features Section */
 #features {
+    color: white;
+    font-size: 1.5rem;
+    padding: 3rem 2rem;
+    background: linear-gradient(135deg, #2e7bff 0%, #a4c8ff 100%);
     width: 100%;
     display: flex;
     flex-direction: column;
