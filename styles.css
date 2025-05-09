@@ -46,6 +46,11 @@ header nav ul li:hover {
     color: #ddd;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 /* Main Content */
 main {
     width: 100%;
