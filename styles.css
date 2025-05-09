@@ -136,6 +136,18 @@ main {
     border-radius: 50%;
 }
 
+/*About Us*/
+#about-us {
+    text-align: center;
+    font-size: 2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    padding: 2rem 3rem;
+}
+
+
+
 /* Footer */
 footer {
     width: 100%;
