@@ -2,7 +2,9 @@
 
 This project is a fake AI generated product I used to test my HTML and CSS skills for a landing page.
 
-## Preview
+## Demo
+
+<video controls src="stocksage-demo-video.mp4" title="Title"></video>
 
 ## Features
 
@@ -10,6 +12,7 @@ This project is a fake AI generated product I used to test my HTML and CSS skill
 - Hero section with clear CTA
 - About Me section 
 - Testimonials section
+- Product Demo section
 - Clean, accessible HTML structure
 
 ## AI Generated Product Overview
