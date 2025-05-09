@@ -3,8 +3,10 @@
 This project is a fake AI generated product I used to test my HTML and CSS skills for a landing page.
 
 ## Demo
+![Screenshot 1](assets/demo-sc-1.png)
+![Screenshot 2](assets/demo-sc-2.png)
 
-<video controls src="stocksage-demo-video.mp4" title="Title"></video>
+![Demo video](assets/stocksage-demo-video.mp4)
 
 ## Features
 
@@ -49,6 +51,16 @@ Retail investors aged 18–40 who are tech-savvy but not professional traders.
 Start Analyzing Smarter — Try StockSage for Free
 
 Get Instant Insights on Your Favorite Stocks
+
+## 🛠️ Getting Started
+
+To view the project locally:
+
+1. Clone the repo  
+   `git clone https://github.com/emhgit/stocksage.git`
+
+2. Open `index.html` in your browser.
+
 
 ## License
 
